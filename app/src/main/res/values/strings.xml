@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">AILish_App_Final_Project</string>
+    <string name="app_name">AILish</string>
+    <string name="password">Password</string>
+    <string name="confirmed_password">Confirmed Password</string>
+    <string name="new_password">New Password</string>
+    <string name="phone">Number Phone</string>
+    <string name="username">Username</string>
+    <string name="change">Change</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="create_acc">Create Account</string>
+    <string name="get_started">Get Started</string>
 </resources>
