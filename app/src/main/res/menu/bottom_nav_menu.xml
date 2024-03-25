@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+    <item
+        android:id="@+id/vocabulary"
+        android:title="Vocabulary"
+        android:icon="@drawable/ic_book_solid"/>
+    <item
+        android:id="@+id/camera"
+        android:title="Camera"
+        android:icon="@drawable/ic_camera_fill"/>
+    <item
+        android:id="@+id/chatbot"
+        android:title="Chatbot"
+        android:icon="@drawable/ic_chatbot_solid"/>
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        android:icon="@drawable/ic_profile"/>
+</menu>
