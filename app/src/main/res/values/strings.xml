@@ -3,7 +3,7 @@
     <string name="password">Password</string>
     <string name="confirmed_password">Confirmed Password</string>
     <string name="new_password">New Password</string>
-    <string name="phone">Number Phone</string>
+    <string name="phone">Phone Number</string>
     <string name="username">Username</string>
     <string name="change">Change</string>
     <string name="signin">Sign In</string>
